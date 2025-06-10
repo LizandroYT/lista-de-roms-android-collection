@@ -1,2 +1,266 @@
 # lista-de-roms-android-collection
+
 Este repositorio es una **colección curada de ROMs personalizadas y sistemas operativos alternativos para dispositivos Android**. La lista incluye proyectos reconocidos por la comunidad, distribuciones independientes, sistemas derivados y herramientas útiles para entusiastas, desarrolladores y usuarios avanzados.
+
+This repository is a curated **collection of custom ROMs and alternative operating systems for Android devices**. It includes well-known community projects, independent distributions, derivatives, and useful tools for enthusiasts, developers, and advanced users.
+
+---
+
+## 📱 ROMs y Proyectos destacados / Featured ROMs and Projects
+
+- 2by2 Project
+- Advanced XPerience OS
+- Afterlife Project
+- AfterlifeOS
+- AICP
+- AIM ROM
+- AlphaDroid
+- AlrightOS
+- AmogOS Rom
+- AmyROM
+- Ancient OS
+- AOKP
+- AOSDP
+- AOSiP
+- AOSP Extended
+- Aquari OS
+- ArrowOS
+- Atomic OS
+- AuroraDroid
+- BaikalOS
+- BananaDroid
+- BeastROMs
+- Benzo ROM
+- Bianca Project
+- Black Iron Project
+- Bliss ROMs
+- Bootleggers ROM
+- BsdkOS
+- CAF Extended
+- CalyxOS
+- CandyRoms
+- Carbon ROM
+- CatalystOS
+- Cesium OS
+- Cherish OS
+- CipherOS
+- Citrus CAF
+- ClownUI
+- Colt OS
+- ConquerOS
+- Corvus ROM
+- Cosmic OS
+- CrDroid
+- CyanogenMod
+- Cygnus OS
+- Cypher OS
+- Derpfest
+- Descendant X
+- Dirty Unicorns
+- DivestOS
+- DotOS - Droid On Time
+- DroidX-UI
+- eFoundation
+- elytraOS
+- Eternity OS
+- Ethereal OS
+- euclidOS
+- EunoiaOS
+- Evervolv
+- Evolution X
+- exTHmUI
+- FireHound
+- Flamingo-OS
+- FlokoROM
+- FluidOS
+- Fork LineageOS
+- fortuneOS
+- Freaky OS
+- FusionOS
+- GenesisOS
+- GhostOS
+- GrapheneOS
+- Halcyon
+- Halogen OS
+- Havoc OS
+- HentaiOS
+- HyconOS
+- iodéOS
+- Ion OS
+- IronOS Project
+- Kali NetHunter
+- Kang OS
+- Komodo OS
+- Krypton Open Source Project
+- Legion OS
+- LeOS
+- LessAOSP
+- LightningFastRom
+- Lineage OS
+- Lineage OS R Mod
+- Liquid Remix
+- LLuvia OS
+- LMODroid
+- LunarUI
+- Magnus OS
+- Mallu OS
+- Miku UI
+- Mist-OS
+- MoKee ROM
+- Nethunter OS
+- Nitrogen OS
+- Nusantara Project
+- Octavi OS
+- Omni ROM
+- OrionOS
+- PalladiumOS
+- Paranoid Android
+- PhoenixAOSP
+- Pixel Blaster OS
+- Pixel Dust
+- Pixel Experience
+- Pixel Extended
+- Pixel Project
+- Pixel OS
+- PixelPlusUI
+- PixelStar
+- Pixys OS
+- POSP
+- Project 404
+- Project Arcana
+- Project Awaken
+- Project Blaze
+- Project Elixir
+- Project Everest
+- Project Infinity X
+- Project Kaleidoscope
+- Project Kasumi
+- Project Lighthouse
+- Project Matrixx
+- Project Mushroom
+- Project Pixelage
+- Project Radiant
+- Project Sakura
+- Project Streak
+- Project Titanium
+- Project Zephyrus
+- Proton AOSP
+- RaveOS
+- ReloadedOS
+- Replicant
+- Resurrection Remix OS
+- ResurrectionRemix-Revived
+- Revenge OS
+- RiceDroid
+- RisingOS
+- RohieOS
+- Scorpion ROM
+- SerasaOS
+- ShapeShift OS
+- Shift OS
+- SigmaDroid OS
+- SkyLineUI
+- SlimRoms
+- SomethingOS
+- SoniUI
+- SparkOS
+- Spice OS
+- Stag OS
+- StatiX OS
+- Superior OS
+- Syberia OS
+- TenXOS
+- Tequila OS
+- The Kraken Project
+- The Styx Project
+- Tipsy OS
+- Toxyc OS
+- UltimateOS
+- Validus OS
+- Viper OS
+- VoidUI
+- Voltage OS
+- WaveOS
+- Weeb Projekt
+- WitAqua
+- Xdroid CAF
+- Xdroid OS
+- Xenon HD
+- XPerience CAF
+- Xtended XS
+- YAAP AOSP
+- ZeusOS
+
+---
+
+## 🔧 Otros sistemas, recoverys y herramientas / Other systems, recoveries, and tools
+
+- Android S GSI
+- AOSP
+- CAOS A11
+- Corvus OS
+- CrDroid R Mod
+- Firmware Collection
+- Google GSI A10/A11/A12/A13
+- Abhix MIUI
+- CharlieOS (HyperOS)
+- DevineUI
+- EliteRoms
+- Hyper Mint
+- HyperArt
+- HyperIN
+- HyperOS GoPlus
+- HyperOS Reborn
+- HyperOS TN
+- HyperVN
+- HyperVoltron
+- MIUI OneOS
+- MIUI Pro
+- MIUI TR
+- PaperOS
+- ReavenUI
+- RemodedUI
+- RevOS
+- Xiaomi.EU
+- /e/
+- AliOS
+- Baidu Yi
+- BharOS
+- ColorOS
+- CopperheadOS
+- emteria.OS
+- EMUI
+- Fire OS
+- Indus OS
+- LeWa OS
+- LG UX
+- MagicOS
+- MIUI
+- My UX
+- One UI
+- OxygenOS
+- realme UI
+- Smartisan OS
+- Xiaomi HyperOS
+- OrangeFox Recovery
+- Pitch Black Recovery Project
+- Pterodon Recovery
+- RedWolf Recovery Project
+- SHRP – Sky Hawk Recovery Project
+- TWRP – Team Win Recovery Project
+- APatch: The Patching of Android Kernel & System
+- KernelSU: Kernel Based Root Solution for Android
+- Magisk: The Magic Mask for Android
+
+---
+
+## 📢 Contribuciones / Contributions
+
+¿Conoces otra ROM, recovery o herramienta? ¡Haz un pull request o crea un issue!
+
+Know another ROM, recovery, or tool? Open a pull request or create an issue!
+
+---
+
+**Todos los nombres y marcas son propiedad de sus respectivos autores.**  
+All trademarks and names belong to their respective owners.
